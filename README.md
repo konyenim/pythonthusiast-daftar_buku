@@ -31,3 +31,7 @@ test penggunaan git
 - merubah code pada branch tersebut
 - meng commit
 - mempush
+
+## Kesimpulan
+- dengan git dan github kode akan aman dari hardisk
+- memiliki reporsitory github yang public, akan menjadikan repository tersebut sebagai portofolio

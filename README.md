@@ -23,3 +23,11 @@ test penggunaan git
 - kemudian lakukan kembali langkah sebelumnya
 - cek perubahan pada github.com
 - lakukan perubahan pada server github
+
+## Menggunakan git di tim
+- mulai bekerja dengan melihat issue
+- bekerja pada branch tersendiri
+- mem-push brand baru
+- merubah code pada branch tersebut
+- meng commit
+- mempush

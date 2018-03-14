@@ -16,3 +16,10 @@ test penggunaan git
 - melihat isi perubahan dengan cara git diff
 
 ## menggunakan git dengan pycharm
+- membuka project yang sudah di-clone di command prompt
+- merubah file
+- mengirim file ke github
+- jika terjadi kegagalan pada saat push, setting idea pycharm anda
+- kemudian lakukan kembali langkah sebelumnya
+- cek perubahan pada github.com
+- lakukan perubahan pada server github

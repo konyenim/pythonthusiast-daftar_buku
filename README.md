@@ -14,3 +14,5 @@ test penggunaan git
 - kirim perubahan dengan git push
 - cek status git dengan perintah gi status
 - melihat isi perubahan dengan cara git diff
+
+## menggunakan git dengan pycharm
